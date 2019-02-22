@@ -1,6 +1,6 @@
 # CSP Violation Demo
 
-Firefox does not like the solition to CSP violations (using `eval`) existing in `web3@1.0.0-beta.46`. This little repo shows a fix proposal, pretty much.
+Firefox does not like the solution to CSP violations (using `eval`) existing in `web3@1.0.0-beta.46`. This little repo shows a fix proposal, pretty much.
 
 `NOTE`: It seems to be a Firefox-specific issue.
 
